@@ -10,8 +10,8 @@ import os
 
 
 ###################################
-e = "viktoraminobotsofia@gmail.com"
-p = "sofia@bot"
+e = "email"
+p = "password"
 d = "423ae9aef48008707155ba8ca2d258e5a90475821e2e59298731de68e29a4cf40aaaced538db3ee5fd"
 Host = "4882e27f-c8dc-46de-a77f-8c0771bce8fa"
 ###################################
